@@ -1,4 +1,4 @@
-# Music-Generation-with-Recurrent-Neural-Networks.-An-AI-Composer
+# Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/RodrigoMarquesP/Music-Generation-with-Recurrent-Neural-Networks.-An-AI-Composer/master/files/musician.gif">
