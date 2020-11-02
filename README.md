@@ -1,5 +1,8 @@
 # Music-Generation-with-Recurrent-Neural-Networks.-An-AI-Composer
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/RodrigoMarquesP/Music-Generation-with-Recurrent-Neural-Networks.-An-AI-Composer/master/files/musician.gif">
+</p>
 
 ## English
 Any real world problem where the present depends on the past, or the actual decisions depends on the later decisions, is called a ***sequential problem***. This project shows with music generation, the real power of sequential problems handling, opening gates for you to start your own solutions.
